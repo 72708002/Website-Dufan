@@ -1,0 +1,137 @@
+/* latihan */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    height: 180vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #ebdbc8;
+}
+.signin,
+.finish {
+    width: 400px;
+    height: min-content;
+    padding: 20px;
+    border-radius: 12px;
+    background: #d2b48c;
+}
+.signin h1,
+.signinfacebook h1,
+.signup h1,
+.signinfacebook h1,
+.signupphone h1,
+.ticket h1,
+.phone h1,
+.finish h1 {
+    font-size: 36px;
+    margin-bottom: 25px;
+}
+.signin form,
+.signinfacebook form,
+.signup form,
+.signinfacebook form,
+.signupphone form,
+.ticket form,
+.phone form {
+    font-size: 20px;
+}
+.signin form .form-group {
+    margin-bottom: 12px;
+}
+.signin form input[type="submit"] {
+    font-size: 20px;
+    margin-top: 15px;
+}
+.signup{
+	width: 400px;
+	height: min-content;
+	padding: 20px;
+	border-radius: 10px;
+	background: #d2b48c;
+}
+.signup h1{
+	font-size: 25px;
+    margin-bottom: 20px;
+}
+.signup form .form-group{
+	margin-bottom: -2px;
+}
+.signup form input[type="submit"] {
+	font-size: 15px;
+    margin-top: 10px;
+}
+.signinfacebook form .form-group {
+    margin-bottom: 12px;
+}
+.signinfacebook form input[type="submit"] {
+    font-size: 20px;
+    margin-top: 15px;
+}
+.signupfacebook{
+	width: 400px;
+	height: min-content;
+	padding: 20px;
+	border-radius: 10px;
+	background: #d2b48c;
+}
+.signupfacebook h1{
+	font-size: 25px;
+    margin-bottom: 20px;
+}
+.signupfacebook form .form-group{
+	margin-bottom: -2px;
+}
+.signupfacebook form input[type="submit"] {
+	font-size: 15px;
+    margin-top: 10px;
+}
+.signin,
+.signinfacebook,
+.signup,
+.signinfacebook,
+.signupphone,
+.ticket,
+.phone,
+.sorry {
+	width: 450px;
+	height: min-content;
+	padding: 20px;
+	border-radius: 12px;
+	background: #d2b48c;
+}
+.signin form .form-group,
+.signinfacebook form .form-group,
+.signup form .form-group,
+.signinfacebook form .form-group,
+.signupphone form .form-group,
+.ticket form .form-group,
+.sorry form .form-group  {
+	margin-bottom: 12px;
+}
+.signin form input[type="submit"],
+.signinfacebook form input[type="submit"],
+.signup form input[type="submit"],
+.signinfacebook form input[type="submit"],
+.signupphone form input[type="submit"],
+.ticket form input[type="submit"],
+.phone form input[type="submit"] {
+	font-size: 20px;
+    margin-top: 10px;
+}
+.ticket h5,
+.sorry h5,
+.sorry h7,
+.finish h2 {
+	font-size: 20px;
+    margin-bottom: 25px;
+}
+.pesan {
+	width: 400px;
+    height: 20px;
+    padding: 20px;
+}
+	

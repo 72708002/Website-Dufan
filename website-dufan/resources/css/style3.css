@@ -1,0 +1,25 @@
+/* latihan */
+* {
+    margin: 2px;
+    padding: 3px;
+}
+
+body {
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background: #ebdbc8;
+}
+.btn{
+    padding: 7px 16px;
+    border: 2px solid var(--second-color);
+    border-radius: 40px;
+    color: var(--second-color);
+    font-weight: 500;
+}
+.btn:hover{
+    color: #fff;
+    background: var(--second-color);
+}
+	
+
