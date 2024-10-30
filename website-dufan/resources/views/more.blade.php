@@ -197,18 +197,18 @@
       </section>
 		</div>
 	  </section>
-			<br><a href="index2.html" class="btn">BACK TO HOMEPAGE</a></br>
+			<br><a href="/" class="btn">BACK TO HOMEPAGE</a></br>
 	  <section class="contact" id="contact">
 		<div class="social">
-			<a href="sosmed.html"><i class='bx bxl-facebook'></i></a>
-			<a href="sosmed.html"><i class='bx bxl-twitter'></i></a>
-			<a href="sosmed.html"><i class='bx bxl-instagram'></i></a>
-			<a href="sosmed.html"><i class='bx bxl-youtube'></i></a>
+			<a href="/sosmed"><i class='bx bxl-facebook'></i></a>
+			<a href="/sosmed"><i class='bx bxl-twitter'></i></a>
+			<a href="/sosmed"><i class='bx bxl-instagram'></i></a>
+			<a href="/sosmed"><i class='bx bxl-youtube'></i></a>
 		</div>
 		<div class="links">
-			<a href="privacy.html">Privacy Policy</a>
-			<a href="promo.html">Promo Ticket</a>
-			<a href="center.html">Help Center</a>
+			<a href="/privacy">Privacy Policy</a>
+			<a href="/promo">Promo Ticket</a>
+			<a href="/center">Help Center</a>
 		</div>
 		<p>&#169; DUFAN ANCOL All Right Reserved.</p>
     <p>Created Web by Fajar Mustofa &copy;2024</p>

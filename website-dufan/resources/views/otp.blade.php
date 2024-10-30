@@ -28,11 +28,11 @@
 				<input type="otp" name="" placeholder="Enter 6 digits OTP" tabindex="10"required>
 			</div>
 			<div class="text"> 
-				<a href="pesan.html" class="btn">Verify OTP</a>
+				<a href="/pesan" class="btn">Verify OTP</a>
 			</div>
 			</form>
 			</div>
-			<a href="index2.html" class="btn"> BACK TO HOMEPAGE </a>								
+			<a href="/" class="btn"> BACK TO HOMEPAGE </a>								
 			</div>
 		</div>
 </script>
